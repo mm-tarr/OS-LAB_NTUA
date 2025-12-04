@@ -5,7 +5,7 @@
  * for Lunix:TNG
  *
  * Marios Tatarakis <el21851@mail.ntua.gr>
- * Konstantinos ... <>
+ * Konstantinos Tolias <el20187@mail.ntua.gr>
  *
  */
 
