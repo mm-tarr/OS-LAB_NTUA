@@ -66,3 +66,6 @@ To start receiving data from the sensors, you need to attach the Lunix line disc
 > **Note:** If there is access to only one terminal is recommeended to attach this in the background with `&`
 
 Once attached, the driver will begin processing incoming sensor data, which can then be read from the `/dev/lunix*` nodes or viewed using the `lunix-monitor` tool.
+
+##  Disclaimer
+These codes are intended for educational purposes and reference.
